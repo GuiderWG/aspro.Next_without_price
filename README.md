@@ -39,7 +39,7 @@ if(isset($arItem["PROPERTIES"]["WITHOUT_PRICE"]))
 
 ## В каталоге в [разделах](https://yadi.sk/i/Cm8LDydBMiJMCw) 
 
-## Сетка "плиткой" 
+### Сетка "плиткой" 
 #### В файле [Скринкод](https://yadi.sk/i/9JBtbzQqQyF5PQ)
 `/www/bitrix/templates/aspro_next/components/bitrix/catalog.section/catalog_block/lang/ru/template.php` - добавить переменную
 ``` php
